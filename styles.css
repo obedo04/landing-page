@@ -1,0 +1,27 @@
+.section-1 {
+    background-color: #1F2937;
+}
+.logo {
+    font-size: 24px;
+    color: #F9FAF8;
+}
+.navbar {
+    color: #E5E7EB;
+}
+.info h1 {
+    font-size: 48px;
+    color: #F9FAF8;
+}
+.info p {
+    font-size: 18px;
+    color: #E5E7EB;
+}
+button {
+    color: #F9FAF8;
+    background-color: #3882F6;
+    padding: 10px;
+    padding-left: 30px;
+    padding-right: 30px;
+    border-radius: 8px;
+    border: 0px;
+}
